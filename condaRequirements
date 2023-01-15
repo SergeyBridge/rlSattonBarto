@@ -1,0 +1,11 @@
+numpy
+# - atari-py
+gym
+# ptan
+# opencv-python
+scipy
+# torch
+torchvision
+# tensorboard-pytorch
+tensorflow
+tensorboard
